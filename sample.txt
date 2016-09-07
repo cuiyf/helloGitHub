@@ -1,1 +1,1 @@
-mokey git share user1
+mokey git share user2 user
